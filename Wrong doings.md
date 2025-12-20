@@ -3,8 +3,7 @@ POP teacher: huyvq@hanu.edu.vn
 huyvq
 this is fine
 this is a change
-This is another change
-Test the diff feature:)
+This is another changeg
 
 What device connects peripheral devices wirelessly to a computer or mobile device?
 
